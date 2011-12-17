@@ -1,2 +1,2 @@
-sinatra --pre
+sinatra bundle
 httparty --version 0.6.1
